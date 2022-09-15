@@ -1,1 +1,0 @@
-git remote add origin https://github.com/LEO07-dev/Minggu-ke-2.git
